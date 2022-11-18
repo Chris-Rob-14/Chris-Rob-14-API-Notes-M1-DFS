@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/mongoose": "^9.2.1",
+    "@nestjs/typeorm": "^9.0.1",
+    "mongoose": "^6.7.2",
+    "mysql2": "^2.3.3",
+    "typeorm": "^0.3.10"
+  }
+}
